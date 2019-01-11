@@ -1,3 +1,9 @@
+p{
+    margin: 25 px;
+}
+div{
+    padding: 25 px;
+}
 html{
     display: block;
 }
@@ -10,13 +16,13 @@ body{
 }
 h1{
     display: block;
-    font-size: 32 px;
+    font-size: 50 px;
     font-weight: bold
 }
 h2, h3, h4, h5, h6{
     display: block;
-    font-size: 18 px
+    font-size: 32 px
     font-weight; bold 
-
 }
+
  
